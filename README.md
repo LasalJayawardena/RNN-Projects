@@ -1,4 +1,4 @@
-This Repo has Projects which use Recurrent Neural Networks
+Projects which use Recurrent Neural Networks
 =============================================
 
 ### Projects:
