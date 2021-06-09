@@ -5,3 +5,4 @@ Projects which use Recurrent Neural Networks
 1) Englih_to_French_Translator
 2) Fake_News_Detection
 3) Food_Classification_with_Transfer_Learning
+4) Diabetic_Retinopathy
