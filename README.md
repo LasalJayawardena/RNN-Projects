@@ -6,3 +6,4 @@ Projects which use Recurrent Neural Networks
 2) Fake_News_Detection
 3) Food_Classification_with_Transfer_Learning
 4) Diabetic_Retinopathy
+5) Named_Entity_Recoginition
