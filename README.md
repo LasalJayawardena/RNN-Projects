@@ -1,6 +1,8 @@
 Projects which use Recurrent Neural Networks (RNNs)
 =============================================
 
+<h2>Technologies</h2>
+
 ### Projects:
 1) Englih_to_French_Translator
 2) Fake_News_Detection
