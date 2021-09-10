@@ -22,9 +22,10 @@ Projects which use Recurrent Neural Networks (RNNs)
 5) Named_Entity_Recoginition
 6) Super_Hero_Name_Generator
 7) Facial_Key_points_Detection
-8) Scene_Classification
-9) Cornell_Movie_Dialog_Chatbot
-10) Flickr8_Image_Caption_Generation
-11) Nltk_English_to_German_Translator
-12) Online_Retail_Recommender_System
-13) Quora_Detecting_Duplicate_Questions
+8) Shakespeare_text_generator
+9) Scene_Classification
+10) Cornell_Movie_Dialog_Chatbot
+11) Flickr8_Image_Caption_Generation
+12) Nltk_English_to_German_Translator
+13) Online_Retail_Recommender_System
+14) Quora_Detecting_Duplicate_Questions
