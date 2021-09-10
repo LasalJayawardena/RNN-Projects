@@ -27,3 +27,4 @@ Projects which use Recurrent Neural Networks (RNNs)
 10) Flickr8_Image_Caption_Generation
 11) Nltk_English_to_German_Translator
 12) Online_Retail_Recommender_System
+13) Quora_Detecting_Duplicate_Questions
