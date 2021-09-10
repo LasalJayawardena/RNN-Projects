@@ -26,3 +26,4 @@ Projects which use Recurrent Neural Networks (RNNs)
 9) Cornell_Movie_Dialog_Chatbot
 10) Flickr8_Image_Caption_Generation
 11) Nltk_English_to_German_Translator
+12) Online_Retail_Recommender_System
