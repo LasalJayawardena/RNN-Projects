@@ -30,3 +30,4 @@ Projects which use Recurrent Neural Networks (RNNs)
 13) Online_Retail_Recommender_System
 14) Quora_Detecting_Duplicate_Questions
 15) Synthetic_Stock_Price_Prediction
+16) Piano_Music_Generator
