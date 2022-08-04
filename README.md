@@ -14,6 +14,8 @@ Projects which use Recurrent Neural Networks (RNNs)
    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
 
+## Platforms
+
 ### Projects:
 1) Englih_to_French_Translator
 2) Fake_News_Detection
